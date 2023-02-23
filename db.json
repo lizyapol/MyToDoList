@@ -1,54 +1,6 @@
 {
   "tasks": [
     {
-      "text": "Take test",
-      "day": "12th March",
-      "reminder": false,
-      "id": 1
-    },
-    {
-      "text": "Walk the dog",
-      "day": "12",
-      "reminder": true,
-      "id": 2
-    },
-    {
-      "text": "Test 2",
-      "day": "23 March",
-      "reminder": true,
-      "id": 3
-    },
-    {
-      "text": "Dental appointments",
-      "day": "09th April 2023",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "task",
-      "day": "gagag",
-      "reminder": true,
-      "id": 5
-    },
-    {
-      "text": "sss",
-      "day": "aaa",
-      "reminder": false,
-      "id": 6
-    },
-    {
-      "text": "hehhe",
-      "day": "nana",
-      "reminder": true,
-      "id": 7
-    },
-    {
-      "text": "hello",
-      "day": "12 March",
-      "reminder": false,
-      "id": 8
-    },
-    {
       "text": "Drink porrideg",
       "day": "Tea break",
       "reminder": false,
@@ -59,30 +11,6 @@
       "day": "Afternoon",
       "reminder": false,
       "id": 10
-    },
-    {
-      "text": "Wake Up and make Sandwich",
-      "day": "Morning",
-      "reminder": true,
-      "id": 11
-    },
-    {
-      "text": "Go to gym",
-      "day": "12 March 2023",
-      "reminder": false,
-      "id": 12
-    },
-    {
-      "text": "dddd",
-      "day": "cc",
-      "reminder": false,
-      "id": 13
-    },
-    {
-      "text": "Hello",
-      "day": "12",
-      "reminder": true,
-      "id": 14
     }
   ]
 }
