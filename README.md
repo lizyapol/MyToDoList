@@ -1,4 +1,7 @@
+
 # Getting Started with Create React App
+#This is the ToDoList App that uses json server to fetch to store and fetch data.
+#The json server acts as the back end of this app. As the developments continues the json server will be replaced with MongoDB and Node.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
