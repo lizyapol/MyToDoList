@@ -77,6 +77,12 @@
       "day": "cc",
       "reminder": false,
       "id": 13
+    },
+    {
+      "text": "Hello",
+      "day": "12",
+      "reminder": true,
+      "id": 14
     }
   ]
 }
